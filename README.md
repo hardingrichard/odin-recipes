@@ -1,7 +1,7 @@
 # The Odin Project
 This repository is part of The Odin Project Foundations course series and each module and project will have the prefix 'odin-'.
 
-## Project: Recipes
+## Project 1: Recipes
 This is the Recipes project as part of The Odin Project Foundations course.
 
 ## Table of Contents
