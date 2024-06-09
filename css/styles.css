@@ -1,0 +1,63 @@
+body {
+    background: lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+nav {
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+nav:hover {
+    font-size: 1.2rem;
+}
+
+main h1 {
+    font-size: 2em;
+    color: darkblue;
+}
+
+main a {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1em;
+    color: green;
+    border: 1px solid green;
+    background-color: orange;
+    margin: 10px;
+    padding: 5px 10px;
+    box-shadow: 1px 1px 1px black;
+    text-decoration: none;
+}
+
+main a:hover {
+    color: purple;
+    background-color: green;
+}
+
+.description {
+    border-top: 2px solid black;
+    padding: 20px;;
+}
+
+footer {
+    border-top: 2px solid black;
+    margin-top: 20px;
+}
+
+/* Recipes Pages */
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ol {
+    text-align: left;
+}
+
+ul, ol {
+    margin: 0 auto;               /* Center align the entire list block */
+    display: inline-block;        /* Make the list an inline block element */
+}
